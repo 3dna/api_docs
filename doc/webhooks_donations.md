@@ -83,6 +83,7 @@ Donation webhook payloads are generated in response to certain one-time and recu
         "state_upper_district": "23",
         "state_lower_district": "60",
         "city_district": "10",
+        "city_sub_district": null,
         "county_district": null,
         "judicial_district": null,
         "school_district": null,
@@ -275,6 +276,7 @@ Donation webhooks created before Feb 25, 2014 (version 2 and below) will keep re
         "state_lower_district": null,
         "county_district": null,
         "city_district": null,
+        "city_sub_district": null,
         "village_district": null,
         "judicial_district": null,
         "school_district": null,
@@ -308,4 +310,3 @@ Donation webhooks created before Feb 25, 2014 (version 2 and below) will keep re
   }
 }
 ```
-

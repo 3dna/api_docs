@@ -46,6 +46,7 @@ Resources
 * `state_upper_district` - district field
 * `state_lower_district` - district field
 * `city_district` - district field
+* `city_sub_district` - district field
 * `county_district` - district field
 * `judicial_district` - district field
 * `school_district` - district field

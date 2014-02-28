@@ -91,6 +91,7 @@ Visible only if the Voter addon is enabled:
 * `state_upper_district` - district field
 * `state_lower_district` - district field
 * `city_district` - district field
+* `city_sub_district` - district field
 * `county_district` - district field
 * `judicial_district` - district field
 * `school_district` - district field
@@ -217,6 +218,7 @@ GET https://foobar.nationbuilder.com/api/v1/donations?page=2&per_page=1
               "state_upper_district": null,
               "state_lower_district": null,
               "city_district": null,
+              "city_sub_district": null,
               "county_district": null,
               "judicial_district": null,
               "school_district": null,
@@ -355,6 +357,7 @@ You will receive a response of status 200, with response body like this:
           "state_upper_district": null,
           "state_lower_district": null,
           "city_district": null,
+          "city_sub_district": null,
           "county_district": null,
           "judicial_district": null,
           "school_district": null,
@@ -496,6 +499,7 @@ You will receive a response of status 200 and body response like this:
           "state_upper_district": null,
           "state_lower_district": null,
           "city_district": null,
+          "city_sub_district": null,
           "county_district": null,
           "judicial_district": null,
           "school_district": null,
