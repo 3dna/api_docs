@@ -549,3 +549,5 @@ This endpoint removes a donation with the provided id.  It takes no parameters a
 ```
 DELETE /api/v1/donations/:id
 ```
+
+If you have suggestions for these docs, [they are public on Github and we accept pull requests](https://github.com/3dna/api_docs/blob/master/doc/donations_api.md).
