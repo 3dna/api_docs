@@ -32,7 +32,7 @@ Resources
 * `payment_type_name` - name of the [payment type](http://nationbuilder.com/what_are_the_valid_payment_types_for_imports)
 * `payment_type_ngp_code` - code of the [payment type](http://nationbuilder.com/what_are_the_valid_payment_types_for_imports)
 * `pledge_id` - the id of the pledge this donation fulfills.  Pledges are promises received from supporters to donate money in the future.
-* `recruiter_name_or_email` - recruiter's name or email address
+* `recruiter_name_or_email` - recruiter's name or email address - this person will be credited with fundraising the donation
 * `recurring_donation_id` - an id present if the donation is recurring
 * `succeeded_at` - timestamp representing when the donation succeeded
 * `tracking_code_slug` - tracking code for this donation
