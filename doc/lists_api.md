@@ -96,7 +96,7 @@ Should get you a 200 response and results like this:
 ```
 
 Note: The above is an example of a list of people. In here, there are four attributes
-for a person: id, first_name, last_name, and email. There are 50+ possible attributes for a
+for a person: id, first_name, last_name, and email. There are 200+ possible attributes for a
 person. The full list of person attributes is documented here: http://nationbuilder.com/people_api
 
 Create Endpoint
