@@ -1035,7 +1035,7 @@ GET /api/v1/people/search
 * `with_mobile` - only people with mobile phone numbers
 * `custom_values` - match custom field values. It takes a nested format, e.g. `{"custom_values": {"my_field_slug": "abcd"}}`. In the query string this parameter would have to be encoded as `custom_values%5Bmy_field_slug%5D=abcd`.
 * `page` - page number (default: 1)
-* `per_page` - number of results to show per page (default: 10, max: 100)
+* `per_page` - number of results to show per page (default: 10, max: 1000)
 
 ### Example
 
