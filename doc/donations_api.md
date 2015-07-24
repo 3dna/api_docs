@@ -1,6 +1,8 @@
 Donations API
 ==========
-
+```
+In order to use the Donations API, you should first get the NationBuilder IDs for the people to whom donations are to be attributed. You'll use our [People endpoints](http://nationbuilder.com/people_api) for this, such as Match, which supports a person lookup based on name, phone number or email address. If the person you'd like to attach a donation to does not already exist, you'll want to add them using the Create or Push endpoints. First acquiring NationBuilder IDs from the People endpoints will also allow you to attribute donations to a recruiter/fundraiser.
+```
 Resources
 ---------
 
