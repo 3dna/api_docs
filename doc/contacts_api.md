@@ -75,6 +75,7 @@ POST /api/v1/people/:id/contacts
 ### Parameters
 
 * `contact` - resource describing the contact you want to create
+* `person_id` - NationBuilder ID of the person being contacted
 
 ### Example
 
