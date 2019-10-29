@@ -42,7 +42,7 @@ You will receive a response of status 200, with response body like this:
 
     ...
 
-    "height": "55",
+    "height": 55,
     "favorite_movie": "Gone with the wind",
     "is_student": false,
     "best_time_to_call": "Anytime"
